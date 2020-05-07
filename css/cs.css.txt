@@ -1,5 +1,9 @@
+@font{
+font-family:fth;
+src=url(../font/fth.ttf)}
 #df{
 width:800px;
 height:400px;
-background-color:red
+background-color:red;
+font-family:fth
 }
